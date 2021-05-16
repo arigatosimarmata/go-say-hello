@@ -1,3 +1,3 @@
-module github.com/arigatosimarmata/go-say-hello/tree/v1.0.0
+module github.com/arigatosimarmata/go-say-hello
 
 go 1.16
